@@ -1,0 +1,10 @@
+[package]
+name = "dilem"
+version = "0.1.0"
+authors = ["Wadjetz <egor.neon@gmail.com>"]
+
+[dependencies]
+iron = "0.4.0"
+image = "0.10.3"
+iron-send-file = "0.1.1"
+postgres = "0.13.1"
