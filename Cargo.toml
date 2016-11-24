@@ -5,6 +5,15 @@ authors = ["Wadjetz <egor.neon@gmail.com>"]
 
 [dependencies]
 iron = "0.4.0"
+persistent="*"
+router = "*"
+mount = "*"
+staticfile="*"
+r2d2="*"
+r2d2_postgres="*"
+handlebars-iron="*"
+rustc-serialize = "*"
 image = "0.10.3"
 iron-send-file = "0.1.1"
 postgres = "0.13.1"
+rust-crypto = "0.2.36"
